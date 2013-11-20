@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecruitsLauncher", "RecruitsLauncher\RecruitsLauncher.csproj", "{ACBAC7F4-3013-4466-BC41-9F4130512EA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecruitsLauncherManifestGenerator", "RecruitsLauncherManifestGenerator\RecruitsLauncherManifestGenerator.csproj", "{6A6E0BAA-9040-4A53-8AB6-5669290A2183}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACBAC7F4-3013-4466-BC41-9F4130512EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACBAC7F4-3013-4466-BC41-9F4130512EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACBAC7F4-3013-4466-BC41-9F4130512EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACBAC7F4-3013-4466-BC41-9F4130512EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A6E0BAA-9040-4A53-8AB6-5669290A2183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6E0BAA-9040-4A53-8AB6-5669290A2183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6E0BAA-9040-4A53-8AB6-5669290A2183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6E0BAA-9040-4A53-8AB6-5669290A2183}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
